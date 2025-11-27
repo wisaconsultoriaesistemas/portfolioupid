@@ -1,0 +1,401 @@
+{
+  "empresa": {
+    "nome": "Up iD - Up Inteligência Digital",
+    "logo_path": "/logo-upid.png",
+    "repositorio": "https://github.com/wibasi/Cases-de-Sucesso",
+    "consultor": "William B. Silva"
+  },
+  "cases": [
+    {
+      "id": 1,
+      "titulo": "Implantação de Sistemas e Consultoria Empresarial - Comércio Local",
+      "slug": "comercio-local",
+      "cliente": {
+        "tipo": "Múltiplos Clientes",
+        "segmentos": [
+          "Comércio varejista",
+          "Indústria",
+          "Serviços"
+        ],
+        "empresas_atendidas": [
+          "Loja de perfumaria",
+          "Restaurante",
+          "Loja de roupas femininas",
+          "Padaria",
+          "Mini mercados",
+          "Fábrica de móveis de madeira"
+        ]
+      },
+      "periodo": {
+        "inicio": "Janeiro de 2024",
+        "fim": "Março de 2025"
+      },
+      "desafio": {
+        "descricao": "Pequenos e médios empreendedores enfrentavam dificuldades na gestão de vendas, controle financeiro, emissão de documentos fiscais e presença digital. Além disso, havia carência de orientação sobre abertura e regularização de empresas, integração entre sistemas e automação de processos.",
+        "problemas": [
+          "Dificuldades na gestão de vendas",
+          "Falta de controle financeiro adequado",
+          "Problemas na emissão de documentos fiscais",
+          "Presença digital deficiente",
+          "Carência de orientação sobre abertura e regularização de empresas",
+          "Falta de integração entre sistemas",
+          "Processos não automatizados"
+        ]
+      },
+      "solucoes": [
+        {
+          "categoria": "Implantação de Sistemas ERP/SaaS",
+          "acoes": [
+            "Mapeamento de processos e necessidades",
+            "Demonstração técnica e comercial",
+            "Implantação e configuração dos sistemas",
+            "Treinamento personalizado",
+            "Suporte técnico contínuo"
+          ]
+        },
+        {
+          "categoria": "Consultoria Empresarial",
+          "acoes": [
+            "Abertura e regularização de MEIs",
+            "Emissão de certificado digital",
+            "Emissão de notas fiscais",
+            "Venda e configuração de equipamentos para automação",
+            "Reestruturação de redes sociais e marketplaces"
+          ]
+        }
+      ],
+      "resultados": {
+        "metricas": [
+          {
+            "indicador": "Empresas atendidas",
+            "valor": "30+",
+            "tipo": "quantidade"
+          },
+          {
+            "indicador": "Redução no tempo de emissão de notas",
+            "valor": "40%",
+            "tipo": "percentual"
+          },
+          {
+            "indicador": "Aumento na eficiência operacional",
+            "valor": "25%",
+            "tipo": "percentual"
+          }
+        ],
+        "impactos": [
+          "Formalização de dezenas de microempreendedores",
+          "Melhoria na presença digital e conversão de vendas",
+          "Maior controle financeiro",
+          "Facilidade no uso dos sistemas",
+          "Confiança nos serviços prestados"
+        ]
+      },
+      "tecnologias": [
+        "Sistemas ERP/SaaS especializados",
+        "Equipamentos de automação comercial",
+        "Redes sociais",
+        "Canva",
+        "Google Meu Negócio",
+        "RD Station",
+        "Marketplaces"
+      ],
+      "depoimentos": "Clientes relataram maior controle financeiro, facilidade no uso dos sistemas e confiança nos serviços prestados.",
+      "conclusao": "Este case comprova a capacidade de entregar soluções completas unindo tecnologia, atendimento e estratégia comercial. A atuação personalizada foi essencial para alavancar a gestão e o crescimento de dezenas de negócios locais."
+    },
+    {
+      "id": 2,
+      "titulo": "Integração e Otimização de Sistemas em Clínica e Pet Shop",
+      "slug": "clinica-pet-shop",
+      "cliente": {
+        "tipo": "Clínica Veterinária e Pet Shop",
+        "segmentos": [
+          "Saúde Veterinária",
+          "Pet Shop",
+          "Varejo"
+        ]
+      },
+      "periodo": {
+        "descricao": "Projeto de transformação e integração de sistemas"
+      },
+      "desafio": {
+        "descricao": "Uma clínica veterinária e pet shop enfrentava grandes dificuldades na gestão devido ao uso de três sistemas diferentes, cada um responsável por uma função específica. Essa fragmentação gerava erros operacionais, retrabalho e dificuldades no fluxo de atendimento, além de custos elevados com múltiplas soluções que não se comunicavam entre si.",
+        "problemas": [
+          "Uso de três sistemas diferentes sem integração",
+          "Sistema 1: Emissão de documentos fiscais",
+          "Sistema 2: Registro de vendas e financeiro",
+          "Sistema 3: Controle de atendimentos clínicos e prontuários veterinários",
+          "Erros operacionais frequentes",
+          "Retrabalho constante",
+          "Dificuldades no fluxo de atendimento",
+          "Custos elevados com múltiplas soluções"
+        ]
+      },
+      "obstaculos": [
+        "Dificuldade na troca de sistemas sem impactar as operações diárias",
+        "Migração de dados dos sistemas antigos para a nova plataforma sem perdas",
+        "Treinamento da equipe para adaptação às novas rotinas",
+        "Intermediação entre a gestão da clínica e fornecedores de tecnologia"
+      ],
+      "solucoes": [
+        {
+          "categoria": "Pesquisa e Seleção da Melhor Solução",
+          "descricao": "Trabalho conjunto com a gestora e a veterinária da clínica para mapear necessidades e encontrar um sistema que atendesse todos os setores de forma integrada"
+        },
+        {
+          "categoria": "Intermediação nas Negociações e Contratação",
+          "descricao": "Atuação como elo entre a clínica e os fornecedores de tecnologia, garantindo uma escolha que equilibrasse custo, benefício e suporte técnico"
+        },
+        {
+          "categoria": "Migração de Dados e Integração dos Sistemas",
+          "acoes": [
+            "Coordenação da transferência segura das informações dos sistemas antigos para a nova solução",
+            "Evitou perda de histórico financeiro e de atendimentos",
+            "Trabalho com a equipe técnica do sistema para garantir adequação das funcionalidades"
+          ]
+        },
+        {
+          "categoria": "Treinamento e Implantação",
+          "acoes": [
+            "Treinamento completo na nova plataforma",
+            "Responsável por ensinar as colaboradoras a utilizarem o sistema com eficiência",
+            "Reestruturação de processos internos",
+            "Adaptação da equipe ao novo fluxo de trabalho sem perda de produtividade"
+          ]
+        }
+      ],
+      "resultados": {
+        "metricas": [
+          {
+            "indicador": "Sistemas integrados",
+            "valor": "3 em 1",
+            "descricao": "Unificação da gestão em um único sistema"
+          }
+        ],
+        "impactos": [
+          "🚀 Unificação da gestão em um único sistema, eliminando retrabalho e melhorando a eficiência operacional",
+          "📊 Redução de erros e retrabalho, com dados centralizados e acessíveis em tempo real",
+          "💰 Diminuição de custos, eliminando gastos desnecessários com múltiplas plataformas",
+          "⏳ Aceleração do atendimento, tornando o processo mais ágil para clientes e equipe",
+          "🎯 Equipe treinada e adaptada, garantindo a continuidade dos processos sem impacto negativo na rotina da clínica"
+        ]
+      },
+      "destaque": "Esse case reforça a capacidade de gestão e consultoria estratégica, combinando tecnologia, processos e treinamento para transformar operações e aumentar a eficiência de negócios."
+    },
+    {
+      "id": 3,
+      "titulo": "Gerenciamento de uma Clínica Médica - Superando Desafios Fora da Zona de Conforto",
+      "slug": "clinica-medica",
+      "cliente": {
+        "tipo": "Clínica Médica",
+        "segmentos": [
+          "Saúde",
+          "Franquia"
+        ]
+      },
+      "periodo": {
+        "descricao": "Gestão completa da unidade franqueada"
+      },
+      "contexto": "Trajetória sempre ligada à tecnologia e gestão comercial, assumindo um desafio fora da zona de conforto: a gestão de uma clínica médica. Foi necessário aplicar habilidades de liderança, reestruturação de processos e gestão de equipe para transformar os resultados do negócio.",
+      "desafio": {
+        "descricao": "Além da curva de aprendizado acelerada para entender o setor da saúde, foi necessário aplicar habilidades de liderança, reestruturação de processos e gestão de equipe para transformar os resultados do negócio.",
+        "problemas": [
+          "Falta de estruturação nos processos",
+          "Rotinas operacionais e administrativas não bem definidas",
+          "Ineficiências gerando desperdícios",
+          "Equipe desalinhada",
+          "Profissionais sem metas claras",
+          "Processo não estruturado de atendimento e vendas",
+          "Gestão comercial pouco explorada",
+          "Necessidade de melhorar conversão de pacientes",
+          "Otimização do atendimento ao cliente",
+          "Setor novo - aprendizado rápido sobre gestão em saúde"
+        ]
+      },
+      "solucoes": [
+        {
+          "categoria": "Reestruturação de Processos",
+          "descricao": "Análise de todas as etapas do atendimento ao paciente, identificação de gargalos e implementação de novos fluxos de trabalho"
+        },
+        {
+          "categoria": "Montagem e Treinamento da Equipe",
+          "descricao": "Recrutamento e alinhamento dos profissionais às metas estratégicas, promovendo treinamentos para excelência no atendimento"
+        },
+        {
+          "categoria": "Implementação de Rotinas Comerciais",
+          "descricao": "Estruturação de um processo de captação e conversão de clientes, garantindo melhor acompanhamento dos leads"
+        },
+        {
+          "categoria": "Criação do Setor de Atendimento e Call Center",
+          "acoes": [
+            "Identificação da necessidade de um time dedicado ao suporte e relacionamento com o cliente",
+            "Implementação de call center interno",
+            "Contratação e treinamento para otimizar atendimento online e telefônico"
+          ]
+        },
+        {
+          "categoria": "Acompanhamento de Indicadores e Metas",
+          "acoes": [
+            "Estruturação de KPIs para monitorar performance da equipe",
+            "Garantia de atendimento mais ágil e eficiente",
+            "Alinhamento de estratégias com a franqueadora"
+          ]
+        }
+      ],
+      "resultados": {
+        "metricas": [
+          {
+            "indicador": "Metas da franqueadora",
+            "valor": "100%",
+            "descricao": "Todas as metas estabelecidas pela franqueadora foram batidas"
+          }
+        ],
+        "impactos": [
+          "🚀 Bati todas as metas estabelecidas pela franqueadora durante o período em que estive à frente da clínica",
+          "📈 Aprimoramento no desempenho da equipe de vendas, aumentando a conversão de pacientes e o faturamento da unidade",
+          "🔄 Otimização dos processos administrativos, reduzindo falhas e retrabalho, tornando a operação mais eficiente",
+          "📞 Criação e implementação do setor de atendimento e call center, garantindo um contato mais ágil e qualificado com os pacientes",
+          "💡 Domínio acelerado da área de saúde, provando que um gestor estratégico e adaptável pode transformar qualquer negócio"
+        ]
+      },
+      "competencias_demonstradas": [
+        "Liderança",
+        "Reestruturação de processos",
+        "Criação de novos setores estratégicos",
+        "Gestão de equipes multidisciplinares",
+        "Foco em resultados",
+        "Eficiência",
+        "Experiência do cliente"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Empresa de Artesanato - Transformação Digital, Automação e Crescimento de Receita",
+      "slug": "artesanato",
+      "cliente": {
+        "tipo": "Empresa de Artesanato",
+        "segmentos": [
+          "Artesanato",
+          "E-commerce",
+          "Produção"
+        ],
+        "descricao": "Especializada na produção e venda de artigos artesanais"
+      },
+      "periodo": {
+        "descricao": "Projeto de transformação digital e crescimento"
+      },
+      "contexto": "Empresa com grande potencial de crescimento, mas que enfrentava dificuldades para expandir sua base de clientes e escalar as operações. O negócio ainda não explorava o digital de forma estruturada, e os processos internos precisavam de otimização.",
+      "desafio": {
+        "descricao": "A empresa tinha grande potencial de crescimento, mas enfrentava dificuldades para expandir sua base de clientes e escalar as operações. O negócio ainda não explorava o digital de forma estruturada, e os processos internos precisavam de otimização para garantir eficiência e aumentar a receita.",
+        "problemas": [
+          "Baixa presença digital",
+          "Não utilizava estratégias de marketing digital para atrair clientes",
+          "Vendas limitadas ao mercado local",
+          "Dependência de clientes da região",
+          "Não explorava oportunidades de crescimento online",
+          "Processos operacionais manuais",
+          "Pedidos e pagamentos feitos de forma desorganizada",
+          "Atrasos na produção e entregas",
+          "Falta de controle integrado entre produção e comercial",
+          "Ausência de um sistema de pós-venda",
+          "Pouca retenção de clientes",
+          "Falta de estratégia para vendas recorrentes"
+        ]
+      },
+      "solucoes": [
+        {
+          "categoria": "Implementação do Marketing Digital",
+          "acoes": [
+            "Criação e gestão de redes sociais",
+            "Campanhas patrocinadas",
+            "Estratégias de tráfego pago para gerar leads e aumentar as vendas"
+          ]
+        },
+        {
+          "categoria": "Expansão para o E-commerce",
+          "descricao": "Criação de uma loja virtual para ampliar a capilaridade de vendas e atender clientes em diferentes regiões"
+        },
+        {
+          "categoria": "Implantação de um Sistema de Gestão (ERP)",
+          "acoes": [
+            "Digitalização do fluxo de pedidos de vendas, geração de boletos e ordens de produção",
+            "Integração do setor comercial com a produção para evitar atrasos",
+            "Relatórios gerenciais para controle de faturamento e previsibilidade de demandas"
+          ]
+        },
+        {
+          "categoria": "Rotinas de Controle de Produção",
+          "acoes": [
+            "Alinhamento semanal entre produção e vendas para garantir cumprimento de prazos",
+            "Monitoramento e ajuste da capacidade produtiva",
+            "Otimização da entrega conforme a demanda"
+          ]
+        },
+        {
+          "categoria": "Otimização da Logística e Pós-Venda",
+          "acoes": [
+            "Contratação de serviços de transporte confiáveis",
+            "Redução de atrasos e custos logísticos",
+            "Estratégia de acompanhamento das entregas",
+            "Pós-venda garantindo maior satisfação e fidelização dos clientes"
+          ]
+        }
+      ],
+      "resultados": {
+        "metricas": [
+          {
+            "indicador": "Receita anual",
+            "valor": "R$ 300.000",
+            "tipo": "monetário",
+            "descricao": "Aumento da receita anual para R$ 300 mil, provando a eficiência da estratégia comercial e operacional"
+          }
+        ],
+        "impactos": [
+          "🚀 Aumento da receita anual para R$ 300 mil, provando a eficiência da estratégia comercial e operacional",
+          "📈 Escala de vendas para fora do mercado local, impulsionando a presença digital e a diversificação dos clientes",
+          "⚙️ Redução de atrasos e aumento da produtividade, garantindo que os prazos fossem cumpridos e melhorando a experiência do cliente",
+          "🌍 Processos automatizados, reduzindo erros e otimizando o tempo da equipe comercial e produtiva",
+          "🔁 Fidelização de clientes e aumento das vendas recorrentes, garantindo previsibilidade no faturamento"
+        ]
+      },
+      "destaque": "Esse case destaca a capacidade de transformar negócios tradicionais através da tecnologia, marketing digital e gestão estratégica, criando processos eficientes e escaláveis.",
+      "tecnologias": [
+        "Sistema ERP",
+        "E-commerce",
+        "Marketing Digital",
+        "Redes Sociais",
+        "Tráfego Pago"
+      ]
+    }
+  ],
+  "estatisticas_gerais": {
+    "total_cases": 4,
+    "empresas_atendidas": "30+",
+    "segmentos_diversos": [
+      "Comércio Varejista",
+      "Indústria",
+      "Serviços",
+      "Saúde Veterinária",
+      "Pet Shop",
+      "Saúde Médica",
+      "Artesanato",
+      "E-commerce"
+    ],
+    "principais_competencias": [
+      "Gestão Estratégica",
+      "Transformação Digital",
+      "Implantação de ERP/SaaS",
+      "Consultoria Empresarial",
+      "Marketing Digital",
+      "Automação de Processos",
+      "Gestão de Equipes",
+      "Reestruturação de Processos",
+      "Integração de Sistemas"
+    ]
+  },
+  "metadata": {
+    "data_extracao": "2025-11-12",
+    "fonte": "GitHub - wibasi/Cases-de-Sucesso",
+    "formato": "Markdown convertido para JSON estruturado",
+    "versao": "1.0"
+  }
+}
